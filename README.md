@@ -5,7 +5,7 @@
 
 HaraPay is your bridge between traditional financial services and blockchain technology, tailored specifically for Africa. Conducting crypto transactions in regions with limited internet access can be challenging, and HaraPay addresses this by enabling seamless and secure transactions via USSD, eliminating the dependency on internet connectivity.
 
-### Why HaraPay?
+#### Why HaraPay?
 
 HaraPay steps in as a solution to bridge the gap between blockchain and traditional financial systems. It empowers users to interact with cryptocurrencies and fiat seamlessly, even in areas with limited internet access. HaraPay integrates with existing financial tools, allowing users to conduct financial transactions, including buying crypto, transferring funds, and making deposits, all from a basic mobile phone.
 
