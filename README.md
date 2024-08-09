@@ -18,6 +18,14 @@ HaraPay is a game-changer, seamlessly integrating with existing protocols and to
 - **USSD-based Wallet Creation and Management** 
 - **Token Transactions (Transfer, Buy, Sell)** 
 - **Crypto-to-Bank Conversion** 
+- **Crypto Debirt Card: Enable users to spend crypto directly from their HaraPay wallets** 
+- **International Card Support**
+  
+#### Key Features:
+
+- **USSD-based Wallet Creation and Management** 
+- **Token Transactions (Transfer, Buy, Sell)** 
+- **Crypto-to-Bank Conversion** 
 - **Secure PIN-based Authentication** 
 - **SMS Confirmation for Transactions** 
 
@@ -27,7 +35,7 @@ Virtual Debit Cards: Provide a virtual card for online transactions.
 
 #### Impact and Scalability
 HaraPay aims to revolutionize financial services in Africa and Beyond, providing financial inclusion for millions of unbanked individuals and empowering local businesses, thereby contributing to economic growth.
-
+International Card Support:Enable card services to be used globally.
 ---
 #### Contact:
 For more information, please contact us at [info.harapay@gmail.com].
