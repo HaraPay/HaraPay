@@ -12,13 +12,6 @@ HaraPay steps in as a solution to bridge the gap between blockchain and traditio
 #### What Makes HaraPay Unique?
 
 HaraPay is a game-changer, seamlessly integrating with existing protocols and tools to offer a straightforward and user-friendly interface for cryptocurrency and fiat transactions. Instead of navigating multiple platforms to perform a single transaction, HaraPay provides an all-in-one solution. With HaraPay, managing your finances becomes as simple as dialing a short code on your mobile device.
-
-#### Future Innovations:
-
-- Crypto Debirt Card: Enable users to spend crypto directly from their HaraPay wallets
-- Virtual Debit Cards: Provide a virtual card for online transactions.
-- Crypto Debirt Card: Enable users to spend crypto directly from their HaraPay wallets
-- International Card Support:Enable card services to be used globally.
   
 #### Key Features:
 
@@ -28,6 +21,12 @@ HaraPay is a game-changer, seamlessly integrating with existing protocols and to
 - **Secure PIN-based Authentication** 
 - **SMS Confirmation for Transactions** 
 
+#### Future Innovations:
+
+- Crypto Debirt Card: Enable users to spend crypto directly from their HaraPay wallets
+- Virtual Debit Cards: Provide a virtual card for online transactions.
+- Crypto Debirt Card: Enable users to spend crypto directly from their HaraPay wallets
+- International Card Support:Enable card services to be used globally.
 #### Impact and Scalability
 
 #### HaraPay aims to revolutionize financial services in Africa and Beyond, providing financial inclusion for millions of unbanked individuals and empowering local businesses, thereby contributing to economic growth.
