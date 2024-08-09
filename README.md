@@ -24,7 +24,6 @@ HaraPay is a game-changer, seamlessly integrating with existing protocols and to
 ### Future Innovations
 Crypto Debit Cards: Enable users to spend crypto directly from their HaraPay wallets.
 Virtual Debit Cards: Provide a virtual card for online transactions.
-International Card Support:Enable card services to be used globally.
 
 ## Impact and Scalability
 HaraPay aims to revolutionize financial services in Africa and Beyond, providing financial inclusion for millions of unbanked individuals and empowering local businesses, thereby contributing to economic growth.
